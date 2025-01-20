@@ -115,13 +115,6 @@ The videos are adjusted to a 9:16 aspect ratio for compatibility with mobile vie
 ### WhatsApp Automation
 
 Update the `target` variable with the recipient’s number and ensure the `OutputFolder` contains the videos to be sent.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## Notes
